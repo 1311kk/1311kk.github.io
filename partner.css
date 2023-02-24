@@ -50,7 +50,7 @@ button{
     transform: translate(-50%, -50%);
 }
 
-@media (max-width:4032px) {
+@media (max-width:480px) {
     .heading{
         font-size: 29px;
     }
